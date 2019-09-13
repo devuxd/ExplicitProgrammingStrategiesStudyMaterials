@@ -6,6 +6,7 @@ This repository contains the replication material for "Explicit Programming Stra
 The guidelines on how to run the study is described in ReadMe.pdf.
 
 #Study required materials
+
 Please find all the materials required for replicating the Explicit Programming Strategies in the root:
 Programming Strategies Pre evaluation tests is used to filter out the very inexperienced users, participants should have pass a pre evaluation test in which they answer a couple of questions. PreTest.pdfincludes the 2 questions we asked from participants ahead of assigning the study.
 

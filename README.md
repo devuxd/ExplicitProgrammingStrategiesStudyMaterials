@@ -3,10 +3,10 @@ This repository contains the replication material for "Explicit Programming Stra
 
 The guidelines on how to run the study is described in ReadMe.pdf.`
 
-Please find all the materials required for replicating the Explicit Programming Strategies in the root:
-Programming Strategies Pre evaluation tests is used to filter out the very inexperienced users, participants should have pass a pre evaluation test in which they answer a couple of questions. PreTest.pdfincludes the 2 questions we asked from participants ahead of assigning the study.
+You can find all the materials required for replicating the Explicit Programming Strategies as described below:
+Programming Strategies Pre evaluation tests is used for filtering out the very inexperienced users. Participants should have pass a pre evaluation test in which they answer a couple of questions. PreTest.pdf includes the 2 questions we asked participants before scheduling the study session.
 
-ControlCondition.pdf is used to run the controlled condition user studies. This version differ from the experimental version in the materials about the StrategyTracker tool.
+For the controlled condition study, ControlCondition.pdf is used. This version only differs from the experimental version in the materials about the StrategyTracker tool.
 
 ExperimentalCondition.pdf is used for experimental user studies who used the implemented stool, STrategyTracker and explicit programming strategies.
 
